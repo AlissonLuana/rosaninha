@@ -3,6 +3,27 @@ site_url: https://alissonluana.github.io/rosaninha/
 repo_url: https://github.com/AlissonLuana/rosaninha
 docs_dir: docs
 
+nav:
+  - Início: index.md
+  - Fundamentos:
+      - Fundação: 01-fundacao.md
+      - Persona: 02-persona.md
+      - Mensagem: 03-mensagem.md
+      - Identidade visual: 04-identidade-visual.md
+  - Produto e lançamento:
+      - Produto: 05-produto.md
+      - Ebook: 09-ebook.md
+      - Lançamento: 08-lancamento.md
+      - Grupo de lançamento: 14-grupo-de-lancamento.md
+  - Aquisição e vendas:
+      - Máquina de venda: 07-maquina-de-venda.md
+      - Conteúdo orgânico: 10-conteudo-organico.md
+      - Página de vendas: 11-pagina-de-vendas.md
+      - Criativos de tráfego pago: 12-criativos-trafego-pago.md
+      - ManyChat para Instagram: 13-manychat-instagram.md
+  - Operação:
+      - Infraestrutura: 06-infraestrutura.md
+
 theme:
   name: material
   language: pt-BR

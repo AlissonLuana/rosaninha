@@ -20,6 +20,12 @@ Cada arquivo é um módulo do projeto. Abra o que você vai trabalhar.
 | 06 | [Infraestrutura](06-infraestrutura.md) | MEI, domínio, e-mail, AWS, GitHub, ClickUp. Camada do Acervo Rhíza — sustenta este produto e os próximos. | 🔴 | Matheus / Luana |
 | 07 | [Máquina de venda](07-maquina-de-venda.md) | Como o produto chega em quem precisa: isca digital, funil, escada de valor, order bump, criativos, página de vendas. | 🔴 | Luana + Matheus |
 | 08 | [Lançamento](08-lancamento.md) | Os 7 blocos técnicos e o cronograma em fases. Não guarda informação própria — orquestra os outros. | 🔴 | Matheus + Luana |
+| 09 | [Ebook](09-ebook.md) | Produção editorial, entrevistas, estrutura, revisão e entrega do produto digital. | 🟡 | Luana |
+| 10 | [Conteúdo orgânico](10-conteudo-organico.md) | Pilares, formatos, calendário, CTAs e métricas para construir audiência. | 🔴 | Luana |
+| 11 | [Página de vendas](11-pagina-de-vendas.md) | Estrutura da página, copy, oferta, checkout, prova e testes de conversão. | 🔴 | Luana + Matheus |
+| 12 | [Criativos de tráfego pago](12-criativos-trafego-pago.md) | Ângulos, roteiros, formatos, testes e métricas de anúncios. | 🔴 | Luana + Matheus |
+| 13 | [ManyChat para Instagram](13-manychat-instagram.md) | Automação de comentários e DMs para entregar isca e encaminhar a audiência. | 🔴 | Matheus + Luana |
+| 14 | [Grupo de lançamento](14-grupo-de-lancamento.md) | Comunidade de aquecimento para relacionamento, validação, pré-venda e lançamento. | 🔴 | Luana + Matheus |
 
 **Legenda:** ✅ fechado · 🟡 em andamento · 🔴 não iniciado
 
@@ -154,3 +160,6 @@ Tudo isso é Fase 0 e roda em paralelo.
 | Domínio: subdomínio ou próprio? | [08](08-lancamento.md) |
 | Plataforma de venda definitiva | [08](08-lancamento.md) |
 | Qual é a oferta da pré-venda? | [08](08-lancamento.md) |
+| Canal e formato do grupo de lançamento | [14](14-grupo-de-lancamento.md) |
+| Nome e promessa de entrada do grupo | [14](14-grupo-de-lancamento.md) |
+| Condição especial para participantes da pré-venda | [14](14-grupo-de-lancamento.md) |
