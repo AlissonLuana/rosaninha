@@ -43,6 +43,16 @@ Isca digital, lista de espera, pré-venda e ebook — sem transformar todo post 
 - Posts com frases da mãe e contexto da história.
 - Lives ou vídeos longos para aprofundar objeções.
 
+### Referências de formato (exemplos reais)
+
+Modelos de vídeo específicos que a gente decidiu reproduzir, com link do original pra quem for gravar usar como referência de enquadramento, ritmo e edição. Lista vai crescendo conforme novos modelos forem aprovados.
+
+| Formato | Referência | Descrição |
+|---|---|---|
+| Rotina narrada, câmera por trás/pelo fundo | [Reel](https://www.instagram.com/reel/DcEPObTu1UP/) | Pessoa em cena executando uma rotina doméstica, filmada por trás/pelo fundo do ambiente, narrando em áudio o que está fazendo. Usar como referência de enquadramento e ritmo — detalhar roteiro/gancho quando for produzir. |
+
+> ⚠️ Não foi possível acessar o conteúdo do Reel a partir deste ambiente (Instagram bloqueado pelo proxy de rede) — a descrição acima é a que a Luana passou de memória. Revisar o link direto antes de gravar, pra confirmar enquadramento, duração e gancho exatos.
+
 ## Cadência inicial
 
 | Canal | Cadência sugerida | Função |
