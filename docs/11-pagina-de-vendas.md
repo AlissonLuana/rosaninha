@@ -24,6 +24,24 @@ A página deve transformar interesse em uma decisão segura de compra. Ela não 
 10. **FAQ** — objeções de [03 Mensagem](03-mensagem.md).
 11. **CTA final** — botão claro e repetido após a decisão.
 
+## Referências de páginas de vendas
+
+Usar estas páginas para estudar estrutura, ritmo da oferta, apresentação do produto, prova, chamadas para ação e tratamento de objeções:
+
+- [Arko Mads](https://arkomov.com/arko-mads/) — referência de apresentação visual, narrativa e oferta.
+- [Mare Educação](https://mareeducacao.com.br/dm7d/) — referência de estrutura comercial, promessa e conversão.
+
+A análise deve buscar princípios que possam ser adaptados à Rosaninha. Não copiar textos, imagens, identidade visual ou promessas sem autorização.
+
+| Elemento para observar | Pergunta |
+|---|---|
+| Primeira dobra | A promessa fica clara antes de rolar? |
+| História | A narrativa cria identificação ou só apresenta a marca? |
+| Oferta | O que a pessoa recebe está visualmente evidente? |
+| Prova | Há demonstração, depoimento ou evidência concreta? |
+| CTA | O próximo passo é único e fácil de entender? |
+| Objeções | A página responde preço, tempo, formato e resultado? |
+
 ## Regras de copy
 
 - Uma ideia principal por seção.
