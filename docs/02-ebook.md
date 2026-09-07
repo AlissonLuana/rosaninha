@@ -1,9 +1,10 @@
-# 05 · Produto
+# 02 · Ebook
 
 **Status:** 🟡 em andamento · **Dono:** Luana
-**Depende de:** [01 Fundação](./01-fundacao.md), [02 Persona](./02-persona.md), [03 Mensagem](./03-mensagem.md), [04 Visual](./04-identidade-visual.md)
-**Alimenta:** [07 Venda](./07-maquina-de-venda.md), [08 Lançamento](./08-lancamento.md)
-**Decisões abertas:** 4 → ver rodapé
+**Depende de:** [01 Marca](01-marca.md)
+**Alimenta:** [03 Canal de conteúdo](03-canal-de-conteudo.md)
+
+> Reúne o produto em si — a revista digital — e a produção editorial que leva até ela. Produto e Ebook eram dois módulos separados, mas descreviam a mesma coisa.
 
 ---
 
@@ -21,9 +22,13 @@ Esta fase vende **exclusivamente produto digital** — revista + planner printá
 
 **Mídia física fica para uma fase futura**, condicionada à validação da demanda no digital. Impressão inverte a economia: custo por unidade, tiragem mínima, capital parado, logística. O orçamento de gráficas locais já levantado fica arquivado para essa decisão futura.
 
-> ℹ️ A revista é o produto de entrada. O produto de margem é o curso na Kiwify, para onde os QR codes apontam. Ver [página inicial](./index.md).
+> ℹ️ A revista é o produto de entrada. O produto de margem é o curso na Kiwify, para onde os QR codes apontam. Ver [página inicial](index.md).
 
----
+## Papel do ebook
+
+O ebook é o produto de entrada da Rosaninha: uma revista digital prática, visual e fácil de consultar no celular. Ele não promete uma casa perfeita; promete mais clareza, leveza e um jeito possível de cuidar da rotina.
+
+A versão inicial deve ser digital, acompanhada do planner printável. A mídia física fica condicionada à validação das vendas digitais.
 
 ## Estrutura da revista (30-32 páginas)
 
@@ -57,7 +62,7 @@ Formato editorial, estilo revista de banca. Nada de encher linguiça — onde fi
 | Mensal / manutenção | Manutenção profunda, evita acúmulos |
 
 ### 6. Situações especiais
-*Resolve objeções direto no conteúdo — ver [03 Mensagem](./03-mensagem.md).*
+*Resolve objeções direto no conteúdo — ver [01 Marca](01-marca.md), seção Mensagem.*
 - Mora com os pais
 - Morando sozinho(a) pela primeira vez
 - Casa com pet
@@ -71,13 +76,9 @@ Formato editorial, estilo revista de banca. Nada de encher linguiça — onde fi
 - Redes sociais
 - Adendo/contracapa: convite pra acompanhar a jornada da fisioterapia da mãe pelos canais. **Não entra como conteúdo dentro da revista** — fica só como chamada final, pra revista não ficar datada
 
----
-
 ## Ferramenta de abertura: Roda do Zelo
 
 ✅ Estrutura já definida. Entra na abertura da revista como diagnóstico inicial.
-
----
 
 ## Planner printável (arquivo separado)
 
@@ -86,8 +87,6 @@ Formato editorial, estilo revista de banca. Nada de encher linguiça — onde fi
 - **Planner semanal** — rotina de tarefas por dia
 - **Planner diário** — mínimo viável
 - **Checklist de hábitos** — formato "to do list" pra marcar como feito
-
----
 
 ## QR Codes dentro da revista
 
@@ -100,29 +99,57 @@ QR Codes linkando para:
 - Barulho de digitação no vídeo
 - O título aparece sendo digitado na tela
 
----
-
 ## Suporte pós-compra
 
 > 🔲 **A definir.** Anotar aqui o que for decidido.
 
----
+## Estrutura editorial (visão de produção)
+
+O conteúdo-base é a estrutura da revista acima. O ebook deve combinar:
+
+- história e identificação;
+- princípios simples para reduzir a culpa;
+- processos por ambiente e frequência;
+- exemplos reais da rotina;
+- páginas de respiro visual;
+- ferramentas que a leitora consegue aplicar no mesmo dia.
 
 ## Produção do conteúdo
 
 O material vem de **7 entrevistas com a mãe**. Nenhuma foi feita ainda — é o gargalo principal do módulo: sem elas, não há o que diagramar.
 
-Pipeline: entrevistas → escrita dos capítulos → diagramação → design do planner.
+### Pipeline de produção
 
----
+1. Fazer as 7 entrevistas com a mãe.
+2. Organizar as histórias, frases e métodos recorrentes.
+3. Transformar cada entrevista em capítulos e exemplos.
+4. Escrever uma primeira versão sem se preocupar com o layout.
+5. Revisar com base na persona e nas objeções.
+6. Diagramar a revista e o planner.
+7. Testar a leitura no celular e a impressão do planner.
+8. Exportar PDF, revisar links e preparar a entrega.
+
+## Critério de pronto
+
+- A promessa aparece claramente na abertura.
+- Cada capítulo resolve uma situação concreta.
+- O texto não depende de conhecimento prévio.
+- O PDF funciona no celular.
+- Os links e QR codes foram testados.
+- O planner pode ser impresso sem cortar conteúdo.
+- A oferta e o suporte pós-compra estão definidos.
 
 ## Decisões abertas
 
 | Decisão | Contexto |
 |---|---|
-| Preço final (R$37 ou R$39,90) | Afeta [03 Mensagem](./03-mensagem.md), objeção 8 |
+| Preço final (R$37 ou R$39,90) | Afeta [01 Marca](01-marca.md), objeção 8 da Mensagem |
 | Preço do bônus/planner | Ou entra incluso? |
 | Padrão de nomes dos vídeos de reflexão | Para os QR codes |
 | Suporte pós-compra | Formato e canal |
 | Qual é o produto de R$200–500 da escada? | Os QR codes já apontam pro curso na Kiwify, mas ele não está desenhado |
 | Quando reavaliar mídia física | Só depois da fase digital validar demanda |
+| Nome final do ebook | Testar com a persona |
+| Quantidade final de páginas | Definir após a diagramação |
+| Planner como bônus ou isca | Decidir antes da campanha |
+| Formato de entrega | Definir plataforma e suporte |

@@ -6,26 +6,16 @@
 
 ---
 
-## Os módulos
+## As categorias
 
-Cada arquivo é um módulo do projeto. Abra o que você vai trabalhar.
+Cada arquivo reúne um grupo de assuntos do projeto. Abra o que você vai trabalhar.
 
-| # | Módulo | O que tem dentro | Status | Dono |
+| # | Categoria | O que tem dentro | Status | Dono |
 |---|---|---|---|---|
-| 01 | [Fundação](01-fundacao.md) | Por que o produto existe, a tese da marca, a transformação que ele promete. Não muda — todo o resto volta aqui. | ✅ | Luana |
-| 02 | [Persona](02-persona.md) | Quem compra: faixa etária, renda, dores, desejos, por que ainda não resolveram isso. | ✅ | Luana |
-| 03 | [Mensagem](03-mensagem.md) | As 8 objeções com argumento de venda, tom de voz por canal. É a matéria-prima do copy e do FAQ. | 🟡 | Luana |
-| 04 | [Identidade visual](04-identidade-visual.md) | Símbolo, paleta Céu das Andorinhas, tipografia, referências e índice dos arquivos de imagem. | 🟡 | Luana |
-| 05 | [Produto](05-produto.md) | A revista em si: estrutura dos 8 capítulos, planner bônus, QR codes, preço, pipeline das entrevistas. | 🟡 | Luana |
-| 06 | [Infraestrutura](06-infraestrutura.md) | MEI, domínio, e-mail, AWS, GitHub, ClickUp. Camada do Acervo Rhíza — sustenta este produto e os próximos. | 🔴 | Matheus / Luana |
-| 07 | [Máquina de venda](07-maquina-de-venda.md) | Como o produto chega em quem precisa: isca digital, funil, escada de valor, order bump, criativos, página de vendas. | 🔴 | Luana + Matheus |
-| 08 | [Lançamento](08-lancamento.md) | Os 7 blocos técnicos e o cronograma em fases. Não guarda informação própria — orquestra os outros. | 🔴 | Matheus + Luana |
-| 09 | [Ebook](09-ebook.md) | Produção editorial, entrevistas, estrutura, revisão e entrega do produto digital. | 🟡 | Luana |
-| 10 | [Conteúdo orgânico](10-conteudo-organico.md) | Pilares, formatos, calendário, CTAs e métricas para construir audiência. | 🔴 | Luana |
-| 11 | [Página de vendas](11-pagina-de-vendas.md) | Estrutura da página, copy, oferta, checkout, prova e testes de conversão. | 🔴 | Luana + Matheus |
-| 12 | [Criativos de tráfego pago](12-criativos-trafego-pago.md) | Ângulos, roteiros, formatos, testes e métricas de anúncios. | 🔴 | Luana + Matheus |
-| 13 | [ManyChat para Instagram](13-manychat-instagram.md) | Automação de comentários e DMs para entregar isca e encaminhar a audiência. | 🔴 | Matheus + Luana |
-| 14 | [Grupo de lançamento](14-grupo-de-lancamento.md) | Comunidade de aquecimento para relacionamento, validação, pré-venda e lançamento. | 🔴 | Luana + Matheus |
+| 01 | [Marca](01-marca.md) | Fundação, persona, mensagem e identidade visual — por que o produto existe, quem compra, as 8 objeções e a paleta/tipografia. Não muda — todo o resto volta aqui. | 🟡 | Luana |
+| 02 | [Ebook](02-ebook.md) | O produto em si: estrutura da revista, planner bônus, QR codes, preço, pipeline das entrevistas. | 🟡 | Luana |
+| 03 | [Canal de conteúdo](03-canal-de-conteudo.md) | Máquina de venda, conteúdo orgânico, página de vendas, criativos de tráfego pago e o cronograma de lançamento. | 🔴 | Luana + Matheus |
+| 04 | [Burocráticos](04-burocraticos.md) | MEI, domínio, e-mail, AWS, GitHub, ClickUp, ManyChat e o grupo de lançamento. | 🔴 | Matheus / Luana |
 
 **Legenda:** ✅ fechado · 🟡 em andamento · 🔴 não iniciado
 
@@ -33,11 +23,11 @@ Cada arquivo é um módulo do projeto. Abra o que você vai trabalhar.
 
 ## Como ler isso
 
-**Cada fato mora em um módulo só.** Os outros linkam. Se você encontrar a mesma informação em dois lugares, um dos dois está errado — corrija o link, não duplique o texto.
+**Cada fato mora numa seção só**, dentro da categoria certa. As outras seções linkam. Se você encontrar a mesma informação em dois lugares, um dos dois está errado — corrija o link, não duplique o texto.
 
-**Todo módulo abre com o mesmo cabeçalho:** status, dono, do que depende, o que alimenta, quantas decisões estão abertas. Dá pra saber se um módulo está pronto pra começar sem abrir ele.
+**Toda categoria abre com um cabeçalho:** status, dono, do que depende, o que alimenta. Cada seção interna também guarda seu próprio status e decisões abertas.
 
-**O 08 não guarda informação.** Ele orquestra e aponta. Se ele contradiz outro módulo, o outro módulo ganha.
+**A seção Lançamento (dentro de [03 Canal de conteúdo](03-canal-de-conteudo.md)) não guarda informação própria.** Ela orquestra e aponta. Se ela contradiz outra seção, a outra seção ganha.
 
 ---
 
@@ -72,7 +62,7 @@ Constroem audiência com conteúdo orgânico por meses, provando a expertise de 
 
 **O tráfego pago é amplificador, não motor de partida.**
 
-E o lucro raramente vem do produto de entrada. Vem da escada: R$39,90 na porta, e atrás dele um produto de R$200–500. Isso **já está desenhado neste projeto**: os QR codes da revista ([05 Produto](05-produto.md)) apontam pro curso na Kiwify. Esse curso é onde o dinheiro está. A revista é a isca.
+E o lucro raramente vem do produto de entrada. Vem da escada: R$39,90 na porta, e atrás dele um produto de R$200–500. Isso **já está desenhado neste projeto**: os QR codes da revista ([02 Ebook](02-ebook.md)) apontam pro curso na Kiwify. Esse curso é onde o dinheiro está. A revista é a isca.
 
 ### Fase 1: só mídia digital
 
@@ -86,7 +76,7 @@ A primeira fase vende **exclusivamente produto digital** — revista + planner p
 
 A audiência vem antes do produto estar pronto.
 
-Enquanto a revista está sendo escrita, o perfil já está no ar publicando conteúdo dos temas dela: as três séries de foto ([07](07-maquina-de-venda.md)), os bastidores das entrevistas com a mãe, dicas soltas que resolvem problemas pequenos de verdade.
+Enquanto a revista está sendo escrita, o perfil já está no ar publicando conteúdo dos temas dela: as três séries de foto ([03 Canal de conteúdo](03-canal-de-conteudo.md), Máquina de venda), os bastidores das entrevistas com a mãe, dicas soltas que resolvem problemas pequenos de verdade.
 
 **Por que isso muda tudo:**
 
@@ -105,7 +95,7 @@ Nunca o contrário.
 
 ## Cronograma
 
-Detalhe completo em [08 Lançamento](08-lancamento.md).
+Detalhe completo em [03 Canal de conteúdo](03-canal-de-conteudo.md), seção Lançamento.
 
 | Fase | Semanas | Foco | Sinal de saída |
 |---|---|---|---|
@@ -125,41 +115,41 @@ O prazo maior não é lentidão: é o tempo de construir a audiência que faz a 
 
 Tudo isso é Fase 0 e roda em paralelo.
 
-**Abrir o MEI** ([06](06-infraestrutura.md), Passo 1). É a coisa mais barata de destravar e trava o checkout lá na frente.
+**Abrir o MEI** ([04 Burocráticos](04-burocraticos.md), Infraestrutura, Passo 1). É a coisa mais barata de destravar e trava o checkout lá na frente.
 
-**Começar as 7 entrevistas com a mãe** ([05](05-produto.md)). Nenhuma foi feita. Sem elas não há capítulo escrito, sem capítulo não há diagramação. É o item de caminho crítico mais longo do projeto — e o único que não dá pra apressar.
+**Começar as 7 entrevistas com a mãe** ([02 Ebook](02-ebook.md)). Nenhuma foi feita. Sem elas não há capítulo escrito, sem capítulo não há diagramação. É o item de caminho crítico mais longo do projeto — e o único que não dá pra apressar.
 
-**Fechar a tipografia** ([04](04-identidade-visual.md)). Está esperando as fotos das revistas de referência. Bloqueia qualquer peça visual.
+**Fechar a tipografia** ([01 Marca](01-marca.md), Identidade visual). Está esperando as fotos das revistas de referência. Bloqueia qualquer peça visual.
 
-**Registrar o domínio** ([06](06-infraestrutura.md), Passos 2–3). Domínio novo tem reputação zero com filtros de spam; quanto antes existir, melhor.
+**Registrar o domínio** ([04 Burocráticos](04-burocraticos.md), Infraestrutura, Passos 2–3). Domínio novo tem reputação zero com filtros de spam; quanto antes existir, melhor.
 
 ## Todas as decisões abertas
 
-| Decisão | Módulo |
+| Decisão | Categoria |
 |---|---|
-| Tagline principal da marca | [01](01-fundacao.md) |
-| Copy da página de vendas (refinar rascunho) | [03](03-mensagem.md) |
-| Bio do Instagram do ebook | [03](03-mensagem.md) |
-| Tipografia definitiva | [04](04-identidade-visual.md) |
-| Moodboard com as revistas físicas | [04](04-identidade-visual.md) |
-| Template de capa e de posts | [04](04-identidade-visual.md) |
-| Preço final (R$37 ou R$39,90) | [05](05-produto.md) |
-| Preço do bônus/planner | [05](05-produto.md) |
-| Padrão de nomes dos vídeos de reflexão | [05](05-produto.md) |
-| Suporte pós-compra | [05](05-produto.md) |
-| Reutilizar conta AWS atual ou criar nova | [06](06-infraestrutura.md) |
-| Quando migrar Matheus do root para IAM | [06](06-infraestrutura.md) |
-| Infra sobe um nível de pasta? | [06](06-infraestrutura.md) |
-| Calendário de conteúdo pré-lançamento | [07](07-maquina-de-venda.md) |
-| Qual é a isca digital? (planner é bônus ou isca?) | [07](07-maquina-de-venda.md) |
-| Canal da sequência: e-mail ou WhatsApp? | [07](07-maquina-de-venda.md) |
-| Order bump e upsell: o quê, por quanto? | [07](07-maquina-de-venda.md) |
-| Texto final do "não é para quem" | [07](07-maquina-de-venda.md) |
-| Qual é o produto de R$200–500 da escada? | [05](05-produto.md) |
-| Quando reavaliar mídia física | [05](05-produto.md) — condicionado à fase digital |
-| Domínio: subdomínio ou próprio? | [08](08-lancamento.md) |
-| Plataforma de venda definitiva | [08](08-lancamento.md) |
-| Qual é a oferta da pré-venda? | [08](08-lancamento.md) |
-| Canal e formato do grupo de lançamento | [14](14-grupo-de-lancamento.md) |
-| Nome e promessa de entrada do grupo | [14](14-grupo-de-lancamento.md) |
-| Condição especial para participantes da pré-venda | [14](14-grupo-de-lancamento.md) |
+| Tagline principal da marca | [01 Marca](01-marca.md), Fundação |
+| Copy da página de vendas (refinar rascunho) | [01 Marca](01-marca.md), Mensagem |
+| Bio do Instagram do ebook | [01 Marca](01-marca.md), Mensagem |
+| Tipografia definitiva | [01 Marca](01-marca.md), Identidade visual |
+| Moodboard com as revistas físicas | [01 Marca](01-marca.md), Identidade visual |
+| Template de capa e de posts | [01 Marca](01-marca.md), Identidade visual |
+| Preço final (R$37 ou R$39,90) | [02 Ebook](02-ebook.md) |
+| Preço do bônus/planner | [02 Ebook](02-ebook.md) |
+| Padrão de nomes dos vídeos de reflexão | [02 Ebook](02-ebook.md) |
+| Suporte pós-compra | [02 Ebook](02-ebook.md) |
+| Reutilizar conta AWS atual ou criar nova | [04 Burocráticos](04-burocraticos.md), Infraestrutura |
+| Quando migrar Matheus do root para IAM | [04 Burocráticos](04-burocraticos.md), Infraestrutura |
+| Infra sobe um nível de pasta? | [04 Burocráticos](04-burocraticos.md), Infraestrutura |
+| Calendário de conteúdo pré-lançamento | [03 Canal de conteúdo](03-canal-de-conteudo.md), Máquina de venda |
+| Qual é a isca digital? (planner é bônus ou isca?) | [03 Canal de conteúdo](03-canal-de-conteudo.md), Máquina de venda |
+| Canal da sequência: e-mail ou WhatsApp? | [03 Canal de conteúdo](03-canal-de-conteudo.md), Máquina de venda |
+| Order bump e upsell: o quê, por quanto? | [03 Canal de conteúdo](03-canal-de-conteudo.md), Máquina de venda |
+| Texto final do "não é para quem" | [03 Canal de conteúdo](03-canal-de-conteudo.md), Página de vendas |
+| Qual é o produto de R$200–500 da escada? | [02 Ebook](02-ebook.md) |
+| Quando reavaliar mídia física | [02 Ebook](02-ebook.md) — condicionado à fase digital |
+| Domínio: subdomínio ou próprio? | [03 Canal de conteúdo](03-canal-de-conteudo.md), Lançamento |
+| Plataforma de venda definitiva | [03 Canal de conteúdo](03-canal-de-conteudo.md), Lançamento |
+| Qual é a oferta da pré-venda? | [03 Canal de conteúdo](03-canal-de-conteudo.md), Lançamento |
+| Canal e formato do grupo de lançamento | [04 Burocráticos](04-burocraticos.md), Grupo de lançamento |
+| Nome e promessa de entrada do grupo | [04 Burocráticos](04-burocraticos.md), Grupo de lançamento |
+| Condição especial para participantes da pré-venda | [04 Burocráticos](04-burocraticos.md), Grupo de lançamento |
